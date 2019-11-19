@@ -1,0 +1,48 @@
+C:\Users\mxeni\source\repos\ProductionModel\ProductionModel\bin\Debug\ProductionModel.exe.config
+C:\Users\mxeni\source\repos\ProductionModel\ProductionModel\bin\Debug\ProductionModel.exe
+C:\Users\mxeni\source\repos\ProductionModel\ProductionModel\bin\Debug\ProductionModel.pdb
+C:\Users\mxeni\source\repos\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csprojAssemblyReference.cache
+C:\Users\mxeni\source\repos\ProductionModel\ProductionModel\obj\Debug\ProductionModel.Form1.resources
+C:\Users\mxeni\source\repos\ProductionModel\ProductionModel\obj\Debug\ProductionModel.Properties.Resources.resources
+C:\Users\mxeni\source\repos\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csproj.GenerateResource.cache
+C:\Users\mxeni\source\repos\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csproj.CoreCompileInputs.cache
+C:\Users\mxeni\source\repos\ProductionModel\ProductionModel\obj\Debug\ProductionModel.exe
+C:\Users\mxeni\source\repos\ProductionModel\ProductionModel\obj\Debug\ProductionModel.pdb
+C:\Users\mxeni\OneDrive\Рабочий стол\ProductionModel\ProductionModel\bin\Debug\ProductionModel.exe.config
+C:\Users\mxeni\OneDrive\Рабочий стол\ProductionModel\ProductionModel\bin\Debug\ProductionModel.exe
+C:\Users\mxeni\OneDrive\Рабочий стол\ProductionModel\ProductionModel\bin\Debug\ProductionModel.pdb
+C:\Users\mxeni\OneDrive\Рабочий стол\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csprojAssemblyReference.cache
+C:\Users\mxeni\OneDrive\Рабочий стол\ProductionModel\ProductionModel\obj\Debug\ProductionModel.Form1.resources
+C:\Users\mxeni\OneDrive\Рабочий стол\ProductionModel\ProductionModel\obj\Debug\ProductionModel.Properties.Resources.resources
+C:\Users\mxeni\OneDrive\Рабочий стол\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csproj.GenerateResource.cache
+C:\Users\mxeni\OneDrive\Рабочий стол\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csproj.CoreCompileInputs.cache
+C:\Users\mxeni\OneDrive\Рабочий стол\ProductionModel\ProductionModel\obj\Debug\ProductionModel.exe
+C:\Users\mxeni\OneDrive\Рабочий стол\ProductionModel\ProductionModel\obj\Debug\ProductionModel.pdb
+C:\Users\Igor\Desktop\ProductionModel\ProductionModel\bin\Debug\ProductionModel.exe.config
+C:\Users\Igor\Desktop\ProductionModel\ProductionModel\bin\Debug\ProductionModel.exe
+C:\Users\Igor\Desktop\ProductionModel\ProductionModel\bin\Debug\ProductionModel.pdb
+C:\Users\Igor\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.Form1.resources
+C:\Users\Igor\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.Properties.Resources.resources
+C:\Users\Igor\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.exe
+C:\Users\Igor\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.pdb
+C:\Users\Igor\Desktop\ProductionModel\ProductionModel\bin\Debug\CLIPSCLRWrapper.dll
+C:\Users\Igor\Desktop\ProductionModel\ProductionModel\bin\Debug\CLIPSCLRWrapper.pdb
+C:\Users\Igor\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csproj.CopyComplete
+C:\Users\mxeni\OneDrive\Рабочий стол\ProductionModel\ProductionModel\bin\Debug\CLIPSCLRWrapper.dll
+C:\Users\mxeni\OneDrive\Рабочий стол\ProductionModel\ProductionModel\bin\Debug\CLIPSCLRWrapper.pdb
+C:\Users\mxeni\OneDrive\Рабочий стол\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csproj.CopyComplete
+C:\Users\demon\Desktop\ProductionModel\ProductionModel\bin\Debug\ProductionModel.exe.config
+C:\Users\demon\Desktop\ProductionModel\ProductionModel\bin\Debug\ProductionModel.exe
+C:\Users\demon\Desktop\ProductionModel\ProductionModel\bin\Debug\ProductionModel.pdb
+C:\Users\demon\Desktop\ProductionModel\ProductionModel\bin\Debug\CLIPSCLRWrapper.pdb
+C:\Users\demon\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csprojAssemblyReference.cache
+C:\Users\demon\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.Form1.resources
+C:\Users\demon\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.Properties.Resources.resources
+C:\Users\demon\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csproj.GenerateResource.cache
+C:\Users\demon\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csproj.CoreCompileInputs.cache
+C:\Users\demon\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.csproj.CopyComplete
+C:\Users\demon\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.exe
+C:\Users\demon\Desktop\ProductionModel\ProductionModel\obj\Debug\ProductionModel.pdb

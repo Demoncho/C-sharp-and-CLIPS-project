@@ -1,0 +1,23 @@
+(deftemplate extra
+    (slot id)
+    (slot name)
+    (slot checked (default 0))
+)
+
+(deffacts extra
+    (extra (id S1) (name "сцены насилия"))
+    (extra (id S2) (name "мультфильм"))
+    (extra (id S3) (name "комедия"))
+    (extra (id S4) (name "драма"))
+    (extra (id S5) (name "боевик"))
+    (extra (id S6) (name "мотивирующий"))
+    (extra (id S7) (name "эпичная сага"))
+    (extra (id S8) (name "фильм Гая Ричи"))
+    (extra (id S9) (name "фильм Кристофера Нолана"))
+    (extra (id S10) (name "фантастика"))
+    (extra (id S11) (name "фильм с Арнольдом Шварценеггером"))
+    (extra (id S12) (name "триллер"))
+    (extra (id S13) (name "фильм с Энтони Хопкинсом"))
+    (extra (id S14) (name "старый фильм"))
+    (extra (id S15) (name "черная комедия"))
+)
